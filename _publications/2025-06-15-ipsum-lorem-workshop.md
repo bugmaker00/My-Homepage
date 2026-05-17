@@ -3,7 +3,6 @@ title: "Ipsum Lorem is all you need for a workshop"
 collection: publications
 category: conferences
 permalink: /publication/2025-06-15-ipsum-lorem-workshop
-workshop
 excerpt: 'This workshop paper explores the application of Ipsum Lorem in long-context foundation models, highlighting improvements in handling extended sequences for LLMs.'
 date: 2025-06-15
 venue: 'Accepted at COML Workshop on Large Language Models (COMLW 2026)'
